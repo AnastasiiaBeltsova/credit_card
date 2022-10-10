@@ -1,15 +1,3 @@
-// function input() {
-//     let input_number = document.getElementById('form__number').value;
-//     document.getElementById('card__text').innerHTML = input_number;
-// }
-
-
-// let input = document.getElementsByClassName("form__name");
-// input.addEventListener('keyup', function (e) {
-//     let holder = document.getElementsByClassName("card__holder");
-//     holder.textContent = e.target.value;
-// })
-
 
 function input() {
     let input_number = document.querySelector(".form__number").value;
